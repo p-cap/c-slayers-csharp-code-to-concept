@@ -1,4 +1,8 @@
-![alt text](Resources/image-1.png)
+# Stack Vs Heap
+
+![alt text](StackVsHeap.png)0
+
+`dotnet StackVsHeap.cs` -> run the file to see the console visualization displaying the difference between `class` and `struct`
 
 ```csharp
 using System;
