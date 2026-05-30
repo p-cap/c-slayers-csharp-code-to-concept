@@ -1,6 +1,7 @@
 # Stack Vs Heap
 
-![alt text](StackVsHeap.png)0
+![alt text](StackVsHeap.png)
+
 
 `dotnet StackVsHeap.cs` -> run the file to see the console visualization displaying the difference between `class` and `struct`
 
