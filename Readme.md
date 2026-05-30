@@ -44,7 +44,6 @@ The repository is structured logically by topic. Each module contains an archite
 📁 2. OOP_and_SOLID/
     ├── 📁 Pillars/                # Encapsulation, Abstraction, Polymorphism
     └── 📁 SOLID_Labs/             # SRP, OCP, LSP, ISP, DIP violations and fixes
-
 📁 3. Design_Patterns/
     ├── 📁 Creational/             # Singleton, Factory Method, Builder
     ├── 📁 Structural/             # Adapter, Decorator, Facade
